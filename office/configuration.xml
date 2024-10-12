@@ -1,0 +1,17 @@
+<Configuration>
+
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2024">
+    <Product ID="ProPlus2024Volume" PIDKEY="2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2">
+      <Language ID="es-es" />
+    </Product>
+    <Product ID="VisioPro2024Volume" PIDKEY="GQRNR-KHGMM-TCMK6-M2R3H-94W9W">
+      <Language ID="es-es" />
+    </Product>
+    <Product ID="ProjectPro2024Volume" PIDKEY="3HYNG-BB9J3-MVPP7-2W3D8-CPVG7">
+      <Language ID="es-es" />
+    </Product>
+  </Add>
+  <RemoveMSI/>
+  <Property Name="AUTOACTIVATE" Value="1"/>
+
+</Configuration>
